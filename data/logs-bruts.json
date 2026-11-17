@@ -1,0 +1,6 @@
+[
+  {"id": 1, "message": "Erreur connexion", "status": "ERROR"},
+  {"id": 2, "message": "Tout va bien", "status": "OK"},
+  {"id": 3, "message": "Erreur base de données", "status": "ERROR"},
+  {"id": 4, "message": "Utilisateur connecté", "status": "OK"}
+]
